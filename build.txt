@@ -1,0 +1,2 @@
+g++ intro.cpp -o myprogram
+./myprogram
