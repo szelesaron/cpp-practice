@@ -1,2 +1,6 @@
+wsl
 g++ intro.cpp -o myprogram
 ./myprogram
+
+//run multiple files
+g++ -o main prog1.cpp prog2.cpp
